@@ -11,20 +11,6 @@ Actually, the creators of EyeOS decided in September 2011 to change the license 
 Please visit [Wikipedia page for EyeOS](http://en.wikipedia.org/wiki/EyeOS) for more details.
 
 
-As I ([Jon Randoem](https://github.com/jon-randoem/)) downloaded some time ago a version of EyeOS (2.5) that was released under GNU Affero General Public License, I considered releasing it on Github to help the community to take the project back from its FLOSS versions.
-
-
-I do not consider myself as a maintainer of this project; if you are interested in developing from this version or in becoming the maintainer of the potential future versions of this software, please fork this repository.
-I am not affiliated in any kind with the original EyeOS creators.
-
-I did not edit any file from the original package (except this README.md file)
-
-Some stats:
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jonrandoem/eyeos/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
 ## License
 GNU Affero General Public License
 
